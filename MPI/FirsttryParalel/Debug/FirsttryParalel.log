@@ -1,0 +1,5 @@
+﻿  FirsttryParalel.cpp
+C:\Users\PC\source\repos\FirsttryParalel\FirsttryParalel\FirsttryParalel.cpp(84,41): warning C4101:  sum: неиспользованная локальная переменная
+C:\Users\PC\source\repos\FirsttryParalel\FirsttryParalel\FirsttryParalel.cpp(83,6): warning C4101:  rc: неиспользованная локальная переменная
+C:\Users\PC\source\repos\FirsttryParalel\FirsttryParalel\FirsttryParalel.cpp(84,33): warning C4101:  Result: неиспользованная локальная переменная
+  FirsttryParalel.vcxproj -> C:\Users\PC\source\repos\FirsttryParalel\Debug\FirsttryParalel.exe
